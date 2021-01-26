@@ -5,3 +5,5 @@
 4. Random Forest
 5. XGB
 6. Decision Tree
+7. KVM
+8. SVG
